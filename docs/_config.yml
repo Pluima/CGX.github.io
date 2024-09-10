@@ -31,7 +31,7 @@ github_username:  jekyll
 
 # Build settings
 #theme: jekyll-theme-minimal
-theme: jekyll-theme-jekflix
+theme: minima
 #theme: jekflix
 plugins:
   - jekyll-feed
